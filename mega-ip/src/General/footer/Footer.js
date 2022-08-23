@@ -14,7 +14,7 @@ function Footer() {
       
       <div id="footer2">
         This is a footer-----2<br></br>
-                    This stays at the bottom of the page.
+                    This stays at the bottom of the page..
                     
 
                     
