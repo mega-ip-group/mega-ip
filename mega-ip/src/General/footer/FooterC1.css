@@ -10,13 +10,14 @@
   body{
     display: flex;
     justify-content: flex-end;
-    align-items: flex-end;
+    
     min-height: 100vh;
     background: rgb(97, 33, 33);
   }
 
   .all{
     width: 100%;
+    margin-top: 31.3%;
   }
 
 
@@ -117,7 +118,6 @@ p{
   left: 0;
   width: 100%;
   height: 100px;
-  
   background-image: url(wave.png);
   background-size: 1000px 100px;
 }
